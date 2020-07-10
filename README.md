@@ -1,9 +1,10 @@
 ![cover](https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/75341209_10217961264574716_6904237126062178304_n.jpg?_nc_cat=108&_nc_sid=dd9801&_nc_ohc=ocxvLEoUO2EAX81zsvI&_nc_ht=scontent-mxp1-1.xx&oh=5f35f3a088477de1d4891df1392efbca&oe=5F2D1901)
 
 Hi there 🙏🏿 
+
 I'm a software engineer passionate about component systems and automated tools but mostly I love 🍕.
 
-Currently, I’m working with TypeScript, JavaScript, React, React Native and Styled Components.
+Currently, I’m working with `TypeScript`, `JavaScript`, `React`, `React Native` and `Styled Components`.
 
 Besides that, I'm trying to bring kindness to tech ❤️
 
