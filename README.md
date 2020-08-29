@@ -1,4 +1,4 @@
-![cover](https://www.dropbox.com/s/p3i1x91h3c3b4dc/Photo%2029-08-2020%2C%2008%2044%2047.jpg)
+![cover](https://raw.githubusercontent.com/michaelgenesini/michaelgenesini/master/cover.jpeg)
 
 Hi there 🙏🏿 
 
