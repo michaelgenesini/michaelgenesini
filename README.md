@@ -1,4 +1,4 @@
-![cover](https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/75341209_10217961264574716_6904237126062178304_n.jpg?_nc_cat=108&_nc_sid=dd9801&_nc_ohc=ocxvLEoUO2EAX81zsvI&_nc_ht=scontent-mxp1-1.xx&oh=5f35f3a088477de1d4891df1392efbca&oe=5F2D1901)
+![cover](https://www.dropbox.com/s/p3i1x91h3c3b4dc/Photo%2029-08-2020%2C%2008%2044%2047.jpg)
 
 Hi there 🙏🏿 
 
