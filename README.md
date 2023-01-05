@@ -1,4 +1,4 @@
-![cover](https://raw.githubusercontent.com/michaelgenesini/michaelgenesini/master/cover.jpeg)
+<!--![cover](https://raw.githubusercontent.com/michaelgenesini/michaelgenesini/master/cover.jpeg) -->
 
 Hi there 🙏🏿 
 
